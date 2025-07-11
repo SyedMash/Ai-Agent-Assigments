@@ -2,7 +2,7 @@ This repository contains 3 projects, game.py, career.py and travel.py
 
 There is also a setup.py file which initialize the agnets using external client
 
-<h1>Game.py</h1>
+<h1>Game.py - Game Master Agent</h1>
 Runs a text-based fantasy adventure game using multiple AI agents that collaborate to:
 
 Narrate an evolving story based on player choices.
@@ -42,7 +42,7 @@ Agents can call tools to roll dice or create random story events as needed.
 5️⃣ Loop continues:
 Player keeps typing actions until they type exit to end the game.
 
-<h1>Career.py</h1>
+<h1>Career.py - Career Mentor Agent</h1>
 This program runs a simple multi-agent AI assistant that helps users with:
 
 Career guidance (Career Agent)
@@ -77,7 +77,7 @@ The chosen agent responds with advice or suggestions.
 4️⃣ Output:
 You get the final answer in your console.
 
-<h1>Travel.py</h1>
+<h1>Travel.py - AI Travel Designer Agent </h1>
 This project is a multi-agent travel assistant.
 It helps users:
 
