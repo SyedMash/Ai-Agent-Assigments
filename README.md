@@ -1,4 +1,7 @@
 This repository contains 3 projects, game.py, career.py and travel.py
+
+There is also a setup.py file which initialize the agnets using external client
+
 <h1>Game.py</h1>
 Runs a text-based fantasy adventure game using multiple AI agents that collaborate to:
 
